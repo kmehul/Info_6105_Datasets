@@ -6,4 +6,4 @@ This Repository contains the following:-
 </br>
 -All the assignments submitted in this course
 </br>
--The Dats\aset and all the assignments have dedicated branches for them for easy access
+-The Dataset and all the assignments have dedicated branches for them for easy access
